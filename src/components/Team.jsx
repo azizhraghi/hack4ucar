@@ -8,10 +8,8 @@ const teamMembers = [
   { name: "Malek Sayeb", role: "Treasurer", img: "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?w=400&h=400&fit=crop", social: { linkedin: "#" } },
   { name: "May Jomni", role: "General Secretary", img: "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=400&h=400&fit=crop", social: { linkedin: "#" } },
   { name: "Yessmine Abbes", role: "Human Resources", img: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop", social: { linkedin: "#" } },
-  { name: "Moetez Laifi", role: "Training Manager", img: "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=400&h=400&fit=crop", social: { linkedin: "#" } },
-  { name: "Elaa Elfahem", role: "Training Manager", img: "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=400&h=400&fit=crop", social: { linkedin: "#" } },
+  { name: "Elaa Elfahem", role: "Training Manager", img: "/images/elaa.jpeg", social: { linkedin: "#" } },
   { name: "Fares Karoui", role: "Training Manager", img: "/images/fares.jpeg", social: { linkedin: "#" } },
-  { name: "Amal Lahmadi", role: "Event Manager", img: "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400&h=400&fit=crop", social: { linkedin: "#" } },
   { name: "Wassila Ben Slimane", role: "Event Manager Assistant", img: "/images/wassila.jpeg", social: { linkedin: "#" } },
   { name: "Yosr Garma", role: "Marketing Manager", img: "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=400&h=400&fit=crop", social: { linkedin: "#" } },
   { name: "Manar Dhahri", role: "Event Manager Assistant", img: "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=400&h=400&fit=crop", social: { linkedin: "#" } }
